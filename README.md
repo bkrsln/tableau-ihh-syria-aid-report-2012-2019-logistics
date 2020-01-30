@@ -4,6 +4,8 @@ Suriye Savaşı krizi başladığından bu yana İHH tarafından Suriye içerisi
 
 :pick: Veri seti olarak İHH'nın kendi bünyesinde kullandığı yazılımdan kazıdığım verileri kullandım.
 
+> *Özetle 2012 ile 2019 yılları arasında Suriyeli mültecilere 172 milyon adet ekmek, 27 milyon adet hazır yemek ve konserve, 203 bin ton gıda, 7.7 bin ton yakacak, 1.2 milyon litre yakıt, 20 milyon adet giyim, 5 milyon adet mutfak ürünü, 4.7 milyon adet kitap ve kırtasiye malzemesi, 10 milyon adet ilaç, tıbbi malzeme ve cihaz, 4.9 milyon adet de hijyen malzemesi ulaştırılmış.*
+
 :bar_chart: Görselleştirmeyi interaktif olarak [buradan](https://public.tableau.com/profile/bekirarslan#!/vizhome/SyriaAidReport2012-2019Logistics/HHSuriyealmalarYardmRaporu), grafik örneklerini aşağıdan inceleyebilirsiniz.
 
 ![Food security](food-kg.png)
