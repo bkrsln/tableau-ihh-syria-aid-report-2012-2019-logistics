@@ -6,10 +6,16 @@ Suriye Savaşı krizi başladığından bu yana İHH tarafından Suriye içerisi
 
 :bar_chart: Görselleştirmeyi interaktif olarak [buradan](https://public.tableau.com/profile/bekirarslan#!/vizhome/SyriaAidReport2012-2019Logistics/HHSuriyealmalarYardmRaporu), grafik örneklerini aşağıdan inceleyebilirsiniz.
 
-![Food security](food-security-kg.png)
+![Food security](food-kg.png)
 
-![Food security](food-security.png)
+![Food security](food.png)
 
-![Shelter](shelter.png)
+![Shelter](shelter-items.png)
 
-![Non Food](non-food-items.png)
+![Non Food](non-food.png)
+
+![Health](health.png)
+
+![Education](education.png)
+
+![Water](water.png)
